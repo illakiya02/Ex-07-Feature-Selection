@@ -80,8 +80,6 @@ reg = LassoCV() reg.fit(X, y) print("Best alpha using built-in LassoCV: %f" % re
 
 ![image](https://github.com/illakiya02/Ex-07-Feature-Selection/assets/112244898/835183e4-e2d1-44cb-8c80-c72b0909b633)
 
-![image](https://github.com/illakiya02/Ex-07-Feature-Selection/assets/112244898/c104af2e-2e24-479d-9e35-ebcf39ded740)
-
 ![image](https://github.com/illakiya02/Ex-07-Feature-Selection/assets/112244898/1e799e57-ec77-4d08-a42e-c48c3f7179a4)
 
 ![image](https://github.com/illakiya02/Ex-07-Feature-Selection/assets/112244898/62473c9c-23c1-46ff-b555-6164a4c7f3a0)
@@ -94,8 +92,6 @@ reg = LassoCV() reg.fit(X, y) print("Best alpha using built-in LassoCV: %f" % re
 
 ![image](https://github.com/illakiya02/Ex-07-Feature-Selection/assets/112244898/ec9df63f-5b9d-4055-a153-3ef01e055ad2)
 
-![image](https://github.com/illakiya02/Ex-07-Feature-Selection/assets/112244898/ccb159be-d203-415d-ba16-f0da6cfd9fa4)
-
 ![image](https://github.com/illakiya02/Ex-07-Feature-Selection/assets/112244898/694d1459-0e5a-4ec3-b644-af13311f5ca5)
 
 ![image](https://github.com/illakiya02/Ex-07-Feature-Selection/assets/112244898/11808dea-8a78-4e47-8b08-e5624e428a67)
@@ -104,13 +100,9 @@ reg = LassoCV() reg.fit(X, y) print("Best alpha using built-in LassoCV: %f" % re
 
 ![image](https://github.com/illakiya02/Ex-07-Feature-Selection/assets/112244898/8b40b1a9-9b91-425d-ac5f-ac9bcc74cdc2)
 
-![image](https://github.com/illakiya02/Ex-07-Feature-Selection/assets/112244898/6a0d77be-52b3-4090-8fdf-103094f517ee)
-
 ![image](https://github.com/illakiya02/Ex-07-Feature-Selection/assets/112244898/d5dddb46-c50b-49a8-985c-0aa67dfc8d7f)
 
 ![image](https://github.com/illakiya02/Ex-07-Feature-Selection/assets/112244898/58cea638-31c3-4133-9a64-d22e5d01f169)
-
-![image](https://github.com/illakiya02/Ex-07-Feature-Selection/assets/112244898/0db65947-7340-454c-814a-05dd6ac61f96)
 
 ![image](https://github.com/illakiya02/Ex-07-Feature-Selection/assets/112244898/16874908-127c-47d3-aa39-dec84a565eae)
 
